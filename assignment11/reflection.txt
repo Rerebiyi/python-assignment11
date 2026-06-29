@@ -1,3 +1,4 @@
 Static visualizations, like the bar chart and line plot I created with Pandas and Matplotlib, are simple and effective for showing trends and comparisons. Interactive visualizations, like the Plotly scatter plot, allow users to zoom, hover over data points, and explore the data in more detail.
 Dashboards are useful for real-time data exploration because they display charts and information in one place. Users can interact with the data, making it easier to analyze results and identify patterns without creating multiple reports.
 Interactive tools like Plotly improve data communication by making visualizations more engaging and easier to explore. In this assignment, I used an interactive scatter plot to compare wind strength and frequency, where users can hover over points and view additional information based on wind direction.
+ 
